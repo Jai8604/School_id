@@ -2,11 +2,10 @@
 <br>
 Used for Store Student Details.
 <br>
-<ul>
-Name
-RollNo
-RegistratinNo
-Department
-Semester
 
-</ul>
+Name<br>
+RollNo<br>
+RegistratinNo<br>
+Department<br>
+Semester<br>
+
